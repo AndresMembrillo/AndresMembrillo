@@ -9,4 +9,4 @@
 * 🐟 [Product recommendation system](https://github.com/AndresMembrillo/proyecto-usisa/tree/main/sistema%20%20recomendacion%20productos): This [USISA](https://www.usisa.com/) project focuses on developing a product recommendation system based on past purchases of other users. It employs the Apriori algorithm with association rules to provide personalized recommendations.
 * 🚬 [Binary Prediction of Smoker Status](https://github.com/AndresMembrillo/kaggle-competitions/tree/main/Kaggle%20competitions/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals): Use of binary classification to predict a patient's smoking status given information about various other health indicators.
 
-📥 Contact me on my [LinkedIn](https://www.linkedin.com/in/andresmembrillo/?locale=en_US) profile.
+Contact me on my 📥 [LinkedIn](https://www.linkedin.com/in/andresmembrillo/?locale=en_US) profile.
