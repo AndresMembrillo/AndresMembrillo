@@ -2,8 +2,6 @@
 
 👨🏽‍💻 I'm Andrés Membrilo, specializing in 📈 **Data Analysis** and **Data Science**. 
 
-![lego_andres_2](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/8910856b-5e8e-4645-a949-944a88eedbc6)
-
 🗂 Here you can find the **main projects** I have worked with Python, and a description of them:
 
 * 🎯 [Customer clustering based on consumer behavior](https://github.com/AndresMembrillo/proyecto-usisa/tree/main/segmentacion%20clientes): This project for [USISA](www.usisa.com) develops a comprehensive customer segmentation model utilizing the DBSCAN clustering algorithm, geolocating each cluster by postal code, and integrating visualization through Power BI.
@@ -12,3 +10,5 @@
 * 🚬 [Binary Prediction of Smoker Status](https://github.com/AndresMembrillo/kaggle-competitions/tree/main/Kaggle%20competitions/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals)): Use of binary classification to predict a patient's smoking status given information about various other health indicators.
 
 Contact me on my 📥 [LinkedIn](https://www.linkedin.com/in/andresmembrillo/?locale=en_US) profile.
+
+![lego_andres_2](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/8910856b-5e8e-4645-a949-944a88eedbc6)
