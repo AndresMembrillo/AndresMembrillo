@@ -2,9 +2,6 @@
 
 👨🏽‍💻 I'm Andrés Membrilo, specializing in 📈 **Data Analysis** and **Data Science**. 
 
-![lego_andres_4](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/c25398bd-8a21-4ec9-9c22-aaa7a6d77206)
-
-
 🗂 Here you can find the **main projects** I have worked with Python, and a description of them:
 
 * 🎯 [Customer clustering based on consumer behavior](https://github.com/AndresMembrillo/proyecto-usisa/tree/main/segmentacion%20clientes): This project for [USISA](https://www.usisa.com/) develops a comprehensive customer segmentation model utilizing the DBSCAN clustering algorithm, geolocating each cluster by postal code, and integrating visualization through Power BI.
