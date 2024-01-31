@@ -13,5 +13,3 @@ Contact me on my 📥 [LinkedIn](https://www.linkedin.com/in/andresmembrillo/?lo
 
 ![lego_andres_6](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/5a1ffaa1-4120-47bd-af52-322a15f8a5df)
 
-![lego_andres_5](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/230dd6a7-14b2-4ea6-a7f6-9768f954816b)
-
