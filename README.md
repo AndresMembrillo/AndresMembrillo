@@ -1,6 +1,7 @@
 ### Hi there, welcome to my GitHub profile
 
 👨🏽‍💻 I'm Andrés Membrilo, specializing in 📈 **Data Analysis** and **Data Science**. 
+
 ![lego_andres_4](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/c25398bd-8a21-4ec9-9c22-aaa7a6d77206)
 
 
