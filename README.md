@@ -2,7 +2,7 @@
 
 👨🏽‍💻 I'm Andrés Membrilo, specializing in 📈 **Data Analysis** and **Data Science**. 
 
-![lego_andres](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/924f92a2-bb60-451e-9dd3-5523abe6d7e3){:height="50px" width="50px"}
+![lego_andres_2](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/8910856b-5e8e-4645-a949-944a88eedbc6)
 
 🗂 Here you can find the **main projects** I have worked with Python, and a description of them:
 
