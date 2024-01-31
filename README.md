@@ -10,3 +10,5 @@
 * 🚬 [Binary Prediction of Smoker Status](https://github.com/AndresMembrillo/kaggle-competitions/tree/main/Kaggle%20competitions/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals): Use of binary classification to predict a patient's smoking status given information about various other health indicators.
 
 Contact me on my 📥 [LinkedIn](https://www.linkedin.com/in/andresmembrillo/?locale=en_US) profile.
+
+![lego_andres_3](https://github.com/AndresMembrillo/AndresMembrillo/assets/145653361/78064b80-8d4a-4b0b-8a51-2e4f15fff130)
